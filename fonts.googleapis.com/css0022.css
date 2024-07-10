@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 300;
+  font-display: fallback;
+  src: url(https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN9JG4S11zY.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Teko';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: url(https://fonts.gstatic.com/s/teko/v20/LYjYdG7kmE0gV69VVPPdFl06VN8XG4S11zY.ttf) format('truetype');
+}
