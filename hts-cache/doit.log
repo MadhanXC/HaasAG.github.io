@@ -1,8 +1,0 @@
--qwr20C2%Pns2u1%s%uN0%I0p3DaK0c8H0%kf2A250000%f#f -F "" -%F "" -%l "en, *" http://haas-advisory-group.local/ -O1 "C:\Users\madha\Desktop\HAASLocal\HAAS AG" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
-File generated automatically on Wed, 10 Jul 2024 15:07:37, do NOT edit
-
-To update a mirror, just launch httrack without any parameters
-The existing cache will be used (and modified)
-To have other options, retype all parameters and launch HTTrack
-To continue an interrupted mirror, just launch httrack without any parameters
-
