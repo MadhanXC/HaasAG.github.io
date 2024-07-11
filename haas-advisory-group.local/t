@@ -55,21 +55,16 @@ flexibility(document.documentElement);
 <link rel="apple-touch-icon" href="./wp-content/uploads/2024/07/cropped-HAAS-AG-Favicon-white-bg-180x180.png" />
 <meta name="msapplication-TileImage" content="./wp-content/uploads/2024/07/cropped-HAAS-AG-Favicon-white-bg-270x270.png" />
 		<style id="wp-custom-css">
-			.site-header  {
+			
+
+
+.site-header  {
+	 z-index:9999;
  top: 0;
- position: fixed;
+ position: sticky;
  width: 100%!important;
-	 z-index:99999;
-}
-.main-header-bar{
-
- position: fixed;
- width: 100%!important;
-	 z-index:99999;
-}
-
-
-		</style>
+	
+}		</style>
 		</head>
 
 <body itemtype='https://schema.org/WebPage' itemscope='itemscope' class="error404 wp-custom-logo ast-desktop ast-separate-container ast-two-container ast-no-sidebar astra-4.7.2 ast-inherit-site-logo-transparent ast-hfb-header">
